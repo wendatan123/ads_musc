@@ -1,12 +1,12 @@
 {
-  "pc": "com.music_songs.mp3downloader.free_music_tube",
+  "pc": "com.songs_download.mp3_downloader.free_music_tube_app",
   "client_id_music": "bc930b1d",
   "interval_inter": 3,
   "applovin": [
     {
-      "banner": "",
-      "inter": "",
-      "native": ""
+      "banner": "d620220a6e67122d",
+      "inter": "9aa94f7c5f98a292",
+      "native": "b985ce22a3c02d4c"
     }
   ]
 }
